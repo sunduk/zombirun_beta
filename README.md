@@ -3,8 +3,10 @@ The top down endless runner example developed using unity3d.
 
 [![zombierun](https://img.youtube.com/vi/qZ4YS4RERjw/0.jpg)](https://www.youtube.com/watch?v=qZ4YS4RERjw)
 
-엔진 버전 : Unity 5.1.2f1 Personal
+엔진 버전 : Unity 5.3.4p2 Personal
+
 리소스 출처
+
 - 플레이어, 좀비 캐릭터 : 유니티 샘플 Survival Shooter.
 - 아이템 : 에셋스토어에 올라온 무료 모델링을 다운로드 받아서 사용(Bakery Icon).
 - 도로 : 자체 제작.
@@ -16,7 +18,9 @@ The top down endless runner example developed using unity3d.
 
 
 Engine version : Unity 5.3.4p2 Personal
+
 License
+
 - Players, Zombies character : Unity sample "Survival Shooter".
 - Items : Free resources on the assetstore(Bakery Icon).
 - The road object : I made. Use for free.
